@@ -8,7 +8,7 @@ I'm **Priyash Patil**, a passionate Full-Stack Developer from Navi Mumbai, India
 - 👯 Open to collaborate on innovative projects and open-source contributions
 
 ### Find Me Around the Web
-- LinkedIn: [Priyash Patil](https://linkedin.com/in/priyashpatil)
+- LinkedIn: [linkedin.com/in/priyashpatil](https://linkedin.com/in/priyashpatil)
 - Website: [priyashpatil.com](https://priyashpatil.com)
 
 ### Skills

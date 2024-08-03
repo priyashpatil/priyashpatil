@@ -9,8 +9,8 @@ I'm **Priyash Patil**, a passionate Full-Stack Developer from India.
 
 ### Find Me Around the Web
 - X (Twitter): [https://x.com/ThePriyashPatil](https://x.com/ThePriyashPatil)
-- LinkedIn: [linkedin.com/in/priyashpatil](https://linkedin.com/in/priyashpatil)
 - Website: [priyashpatil.com](https://priyashpatil.com)
+- LinkedIn: [linkedin.com/in/priyashpatil](https://linkedin.com/in/priyashpatil)
 
 ### Skills
 

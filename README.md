@@ -3,7 +3,7 @@ I'm **Priyash Patil**, a passionate Full-Stack Developer from Navi Mumbai, India
 
 ### About Me
 - 🚀 7+ years of experience in web development
-- 💻 Specializing in TypeScript, Node.js, React, Docker, Kubernetes, and Machine Learning
+- 💻 Specializing in TypeScript, Node.js, PHP, React, Docker, Kubernetes, and Machine Learning
 - 🌱 Currently exploring advanced AI developer tools
 - 👯 Open to collaborate on innovative projects and open-source contributions
 

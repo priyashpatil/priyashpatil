@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm **Priyash Patil**, a passionate Full-Stack Developer from Navi Mumbai, India.
+I'm **Priyash Patil**, a passionate Full-Stack Developer from India.
 
 ### About Me
 - 🚀 7+ years of experience in web development

@@ -1,11 +1,6 @@
 ## Hi there 👋
 I'm **Priyash Patil**, a passionate Full-Stack Developer. Open Source Contributor at [ContinueDev](https://github.com/continuedev/continue) and [phpup](https://github.com/pronskiy/phpup). Building [InterlaceKit](interlacekit.com) and [o2pilot](o2pilot.com).
 
-### About Me
-- 🚀 7+ years of experience in web development
-- 💻 Specializing in TypeScript, Node.js, PHP, React, Docker, Kubernetes, and Machine Learning
-- 🌱 Currently exploring advanced AI developer tools
-
 ### Find Me Around the Web
 - X (Twitter): [https://x.com/_priyashpatil](https://x.com/_priyashpatil)
 - Website: [priyashpatil.com](https://priyashpatil.com)

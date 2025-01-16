@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm **Priyash Patil**, a passionate Full-Stack Developer. Building [InterlaceKit](interlacekit.com) and [o2pilot](o2pilot.com).
+I'm **Priyash Patil**, a passionate Full-Stack Developer. Building [InterlaceKit](https://interlacekit.com) and [o2pilot](https://o2pilot.com).
 
 ### Find Me Around the Web
 - X (Twitter): [https://x.com/_priyashpatil](https://x.com/_priyashpatil)
